@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Meera S</h1>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Hi%20👋,%20I'm%20Meera%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20|%202026%20Computer%20Science%20Graduate&descAlignY=60&descSize=20"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91b3e9c4-2013-48ca-9a80-464ca3e4010c" width="180">
+</p>
+
+
 
 <h3 align="center">
 Java Full Stack Developer | 2026 Computer Science Graduate
@@ -12,8 +19,11 @@ Passionate about building scalable web applications using Java, Spring Boot, Ang
 
 ### 👩‍💻 About Me
 
+<p align="left">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"></p>
+
 - 🎓 2026 Computer Science Engineering Graduate
-- 💻 Java Full Stack Developer
+- 💻 Java Full Stack Developer           
 - 🔭 Currently building Full Stack Web Applications
 - 🌱 Learning AWS, Docker, CI/CD and DevOps
 - 🤝 Open to Software Developer and Full Stack Developer opportunities
@@ -31,6 +41,10 @@ Passionate about building scalable web applications using Java, Spring Boot, Ang
 
 <a href="https://github.com/Meeramirsha">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://meera-portfolio-xi.vercel.app">
@@ -77,4 +91,8 @@ Machine Learning project for predicting flood risk using historical environmenta
 
 
 ###
+🐍 Contribution Snake
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>

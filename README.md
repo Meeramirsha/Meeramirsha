@@ -1,9 +1,7 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Hi%20👋,%20I'm%20Meera%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20|%202026%20Computer%20Science%20Graduate&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Hi%20👋,%20I'm%20Meera%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&&descAlignY=60&descSize=20"/>
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/91b3e9c4-2013-48ca-9a80-464ca3e4010c" width="180">
-</p>
+
 
 
 
